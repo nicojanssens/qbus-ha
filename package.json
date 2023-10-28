@@ -10,7 +10,7 @@
     "qbus",
     "ha"
   ],
-  "author": "Nico Janssens",
+  "author": "nico.b.janssens@gmail.com",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.3.1",
