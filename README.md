@@ -7,7 +7,7 @@ Small script to scan your Qbus MQTT topics and register them as HA items.
 
 `npm install`
 
-Create .env including the variables defined in .env.example
+Create ```.env``` including the variables defined in ```.env.example```
 
 
 ## Prerequisites
