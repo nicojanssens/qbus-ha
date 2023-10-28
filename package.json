@@ -1,0 +1,22 @@
+{
+  "name": "qbus-ha",
+  "version": "0.0.1",
+  "description": "Mediator between Qbus MQTT en HA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qbus",
+    "ha"
+  ],
+  "author": "Nico Janssens",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "eslint": "^8.51.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "mqtt": "^5.1.2",
+    "yn": "^5.0.0"
+  }
+}
